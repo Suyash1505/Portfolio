@@ -58,10 +58,10 @@ export const clientReviews = [
 
 export const myProjects = [
   {
-    title: 'Podcastr - AI Podcast Platform',
-    desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+    title: 'Healthcare Appointment Management System',
+    desc: 'Designed a role-based system (Patient, Doctor, Admin) with dedicated dashboards. Integrated  patient-doctor mapping and automated specialist routing. Implemented real-time appointment scheduling. Built a payment module, commission tracking, and invoicing.',
     subdesc:
-      'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
+      'Built as a unique Software-as-a-Service app with React 19, Tailwind CSS, JavaScript.',
     href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
