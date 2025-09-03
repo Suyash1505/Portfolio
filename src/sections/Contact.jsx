@@ -35,7 +35,7 @@ const Contact = () => {
 
             setLoading(false);
             alert('Your message has been sent!')
-            
+
             setForm({
                 name: "",
                 email: "",
@@ -61,7 +61,7 @@ const Contact = () => {
                 />
 
                 <div className='contact-container'>
-                    <h3 className='head-text'>Contact Me</h3>
+                    <h3 className='head-text mt-10'>Contact Me</h3>
 
                     <p className='text-lg text-white-600 mt-3'>
                         Weather you're looking to build new webside,
